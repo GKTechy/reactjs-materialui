@@ -299,5 +299,12 @@
       "heading": "VS Code",
       "module": "others",
       "img": "https://source.unsplash.com/random"
+    },
+    {
+      "title": "How to enable emmet in react js project using vscode",
+      "link": "https://youtu.be/H_xb5571BCw",
+      "heading": "Emmet",
+      "module": "others",
+      "img": "https://source.unsplash.com/random"
     }
   ]
